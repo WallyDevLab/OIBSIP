@@ -30,9 +30,3 @@ The score is calculated using the calculateScore method, which awards more point
 Author
 
 This Number Guessing Game was created by [Katlego Barayi].
-
-License
-
-This program is open-source and available under the MIT License.
-
-Feel free to contribute or modify as needed. Enjoy playing the Number Guessing Game!
